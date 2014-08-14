@@ -1,0 +1,34 @@
+
+# Pain Point
+* Correct Inventory Number
+* easy inventory track
+* General Report
+
+# Wanted Features
+* Barcode Support
+* Barcode Process
+* Stock Inventory Date
+* Stock Cancel
+* Stock With Purchase Price, Sale Price
+* internal stock with messages
+* Stock Report?? 
+    * 进销存
+    * 库存明细
+* stock quick entry
+
+
+| id | task |   | Note | Version |
+|:-:|:-|:-:|:---|:-----------:|
+|  |  product_inventory_warning |   |  Report To display alert of based on product safe qty   |           0 |
+|   |sale_stock_create_datetime|   |     |        0 |
+|   |  stock_batch_move |   |     |             |
+|   |  stock_fillin_inventory_with_steps |   |     |             |
+|   |  stock_internal_picking_with_messages | * |     |             |
+|   |  stock_quick_entry | *  |     |             |
+|   |  stock_report_with_sale_price | *  |     |             |
+|   |  stock_return_with_location |   |     |             |
+|   |  wms | *  |     |             |
+|   |  stock_cancel | *  |   Cancel Stock Move    |          |
+
+
+> Written with [StackEdit](https://stackedit.io/).
